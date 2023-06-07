@@ -3,3 +3,4 @@
 ## taking anime into add to txt.ipynb file that takes anime plot summnry and remove japanese kanji from it and then convert it in to txt file
 ## File name createinggptusingNormalToken.ipynb has coding for AI that create Anime plot
 
+And you can find the dataset on kaggle https://www.kaggle.com/datasets/muhammadishaque/anime-dataset-for-nlp
